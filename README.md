@@ -1,1 +1,1 @@
-This code asks a letter and a string of characters in C. This checks how many letters are present in the string. This was my output as an assignment for Sharp IT which is a training for fundamentals in COmputer Science. 
+This code asks a letter and a string of characters in C. This checks how many letters are present in the string. This was my output as an assignment for Sharp IT which is a training for fundamentals in Computer Science. 
